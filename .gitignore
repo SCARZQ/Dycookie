@@ -1,0 +1,42 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# Android / 构建相关（如果后续添加源码）
+*.apk
+!Dycookie.APK
+*.ap_
+*.aab
+*.dex
+*.class
+bin/
+gen/
+out/
+build/
+.gradle/
+local.properties
+proguard/
+*.log
+
+# 密钥与敏感信息
+*.jks
+*.keystore
+key.properties
+google-services.json
+local.properties
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
