@@ -79,7 +79,12 @@
 
 ## 下载安装
 
-- [Dycookie.APK](./Dycookie.APK)
+推荐从 **Releases** 下载最新版本：
+
+- [下载 Dycookie.APK (v1.0.0)](https://github.com/SCARZQ/Dycookie/releases/download/v1.0.0/Dycookie.APK)
+
+或前往 Releases 页面查看所有版本：  
+https://github.com/SCARZQ/Dycookie/releases
 
 ## 作者
 
